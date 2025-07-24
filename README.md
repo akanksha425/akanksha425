@@ -44,7 +44,8 @@ India, with its rapidly growing population, faces increasing pressure to produce
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=akanksha425&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akanksha425&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=akanksha425&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+
 </p>
 
 ---
